@@ -17,11 +17,14 @@ Maven
    Runners          -> CÇalıştırıcılar
 
 4- Ayarlar
-
    A) Intellij Editör ayarları
-        2 tane Plugin ekleyeceğiz
-          1- Cucumber for java
-          2- Gherkin Language
+      2 tane Plugin ekleyeceğiz
+        1- Cucumber for Java
+        2- Gherkin Language
 
+   B) POM.xml -> Project Object Model Ayarları
 
-   B)
+       Selenium
+       testNg
+       Cucumber
+       Cucumber-TestNg birleştiren lib   B)
